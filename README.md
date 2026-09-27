@@ -35,17 +35,9 @@ const jagad = {
 
 <div align="center">
 
-<a href="https://github.com/jagadrenata">
-  ![](https://github-readme-stats.shion.dev/api?username=jagadrenata&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagadrenata&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadrenata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jagadrenata&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/jagadrenata)
+![](https://github-readme-stats.shion.dev/api?username=jagadrenata&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jagadrenata&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagadrenata&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -64,7 +56,7 @@ Feel free to open an [issue](https://github.com/jagadrenata/jagadrenata/issues) 
 
 <div align="center">
   <i>❤️ I love writing TypeScript and pushing the boundaries of the type system.</i>
-  <br>
-  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
